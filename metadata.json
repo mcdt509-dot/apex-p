@@ -1,0 +1,8 @@
+{
+  "name": "Apex Physique - Elite Bodybuilding Store",
+  "description": "A premium e-commerce platform for high-performance supplements, athletic gear, and AI-powered fitness coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
